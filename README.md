@@ -1,0 +1,1 @@
+# WEB API com ASP.NET Core 5 - SWAGGER e Entity
